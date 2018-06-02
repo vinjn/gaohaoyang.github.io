@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Book Review of "Augmented Reality with Kinect"
+categories: book
+tags: book Kinect AR
 ---
 
 {{ page.title }}

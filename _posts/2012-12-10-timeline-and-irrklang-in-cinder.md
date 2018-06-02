@@ -1,6 +1,8 @@
 ---
 layout: post
 title: 在 Cinder 中使用 timeline 实现复杂的声音播放逻辑
+categories: Cinder
+tags: Cinder Audio
 ---
 
 {{ page.title }}
