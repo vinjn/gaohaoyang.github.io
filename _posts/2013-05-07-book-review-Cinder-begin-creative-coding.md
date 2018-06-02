@@ -3,9 +3,6 @@ layout: post
 title: Book Review of "Cinder - Begin Creative Coding"
 ---
 
-{{ page.title }}
-================
-
 [via packtpub][booklink]
 
 

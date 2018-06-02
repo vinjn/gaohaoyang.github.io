@@ -5,9 +5,6 @@ categories: Cinder
 tags: Cinder Audio
 ---
 
-{{ page.title }}
-================
-
 本文[首发](http://www.hudo.it/index.php/topic,495.0.html)于 hudo.it 社区
 
 ----------------------

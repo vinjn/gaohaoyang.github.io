@@ -3,9 +3,6 @@ layout: post
 title: 使用 Notepad++ 打造 Processing 开发环境
 ---
 
-{{ page.title }}
-================
-
 本文[首发](http://www.hudo.it/index.php/topic,520.0.html)于 hudo.it 社区   
 后来我发现 github 上存在很多 Processing 的开发环境
 

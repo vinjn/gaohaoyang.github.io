@@ -3,9 +3,6 @@ layout: post
 title: How to develop Android apps with pure C++
 ---
 
-{{ page.title }}
-================
-
 This article takes /ndk/samples/native-activity as the example.
 
 [For better formatting, refer to this](https://github.com/vinjn/vinjn.github.io/blob/master/_posts/2013-08-08-android-development-with-pure-cpp.md)

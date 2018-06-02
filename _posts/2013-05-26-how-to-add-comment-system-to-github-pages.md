@@ -3,9 +3,6 @@ layout: post
 title: How to add comments to Github pages
 ---
 
-{{ page.title }}
-================
-
 Github pages are static html files generated from text-only markdown files hosted on github.com. Since they are static, there is no way to dynamically generate content, and you can't use a normal comment system.<br>
 
 But we do have a solution.

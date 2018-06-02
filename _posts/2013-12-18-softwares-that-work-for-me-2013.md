@@ -3,9 +3,6 @@ layout: post
 title: 提升工作效率的必备软件 2013 版
 ---
 
-{{ page.title }}
-================
-
 ## Target Audience ##
 Desktop programmer (C++ / Java / Scripts) on Windows
 

@@ -5,9 +5,6 @@ categories: book
 tags: book Kinect AR
 ---
 
-{{ page.title }}
-================
-
 [via packtpub][booklink]
 
 

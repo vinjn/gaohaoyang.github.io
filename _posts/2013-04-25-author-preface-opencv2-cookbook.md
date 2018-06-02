@@ -3,9 +3,6 @@ layout: post
 title: 我和 OpenCV 的故事，兼译者序
 ---
 
-{{ page.title }}
-================
-
 我翻译的《OpenCV 2 Computer Vision Application Programming Cookbook》将于近期面世，本文是译者序
 
 [点击有大图](https://raw.github.com/vinjn/vinjn.github.io/master/images/opecv-cookbook-face.jpg)

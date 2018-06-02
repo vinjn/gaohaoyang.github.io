@@ -3,9 +3,6 @@ layout: post
 title: An Overview of Graphics Debugging Tools
 ---
 
-{{ page.title }}
-================
-
 > If you feel uncomfortable with the table style, feel free to check [this prettier one](https://github.com/vinjn/vinjn.github.io/blob/master/_posts/2013-07-07-graphics-debugging-tools-overview.md)
 
 **Desktop graphics debugger**

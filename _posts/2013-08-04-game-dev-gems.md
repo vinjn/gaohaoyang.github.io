@@ -3,9 +3,6 @@ layout: post
 title: 游戏开发中的好文章
 ---
 
-{{ page.title }}
-================
-
 ##基础设施##
 
 Writing shared code for Windows Store and Win32 desktop apps. 
