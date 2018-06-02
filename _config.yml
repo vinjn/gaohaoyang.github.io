@@ -7,7 +7,7 @@
 
 # Site settings
 title: Vinjn
-# brief-intro: Front-end Dev Engineer
+brief-intro: 人工智能 + 视觉计算
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://vinjn.com" # the base hostname & protocol for your site
 
