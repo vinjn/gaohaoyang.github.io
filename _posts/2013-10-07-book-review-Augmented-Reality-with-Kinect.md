@@ -7,7 +7,7 @@ tags: book Kinect AR
 
 [via packtpub][booklink]
 
-![]({{ site.url }}/media/Augmented-Reality-with-Kinect.png)
+![]({{ site.url }}/media/Augmented-Reality-with-Kinect.jpg)
 
 # A complete introduction to Fruit Ninja Kinect clone #
 
