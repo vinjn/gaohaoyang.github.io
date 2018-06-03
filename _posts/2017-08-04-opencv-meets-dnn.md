@@ -9,6 +9,9 @@ tags:  OpenCV DNN Caffe TensorFlow
 
 小张琢磨了下，这个 dnn 模块的卖点有这么几个：
 
+
+
+
 零依赖
 ===
 只依赖 opencv，如果你被 caffe 虐过，那么就知道零依赖是多么如沐清风。

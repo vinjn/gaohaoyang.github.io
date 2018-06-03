@@ -6,8 +6,8 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Vinjn
-brief-intro: 人工智能 + 视觉计算
+title: vinjn.com
+brief-intro: Thoughts of AI Computing and Visual Computing
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://vinjn.com" # the base hostname & protocol for your site
 
@@ -22,7 +22,7 @@ zhihu_username: vinjn
 linkedIn_username: vinjnz
 dribbble_username:
 
-description_footer: 本站记录我前端之旅的沿途风景！
+# description_footer: 本站记录我前端之旅的沿途风景！
 
 # comments
 # two ways to comment, only choose one, and use your own short name
