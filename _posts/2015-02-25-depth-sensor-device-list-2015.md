@@ -5,8 +5,6 @@ categories: Kinect
 tags:  Kinect OpenNI
 ---
 
-![]({{ site.url }}/media/fish-and-bear.jpg)
-
 这篇文章中我整理了市面上常见的深度摄像头、优缺点及使用场景。
 - Microsoft Kinect
 - Microsoft Kinect One
@@ -14,6 +12,9 @@ tags:  Kinect OpenNI
 - Leap Motion
 - //DUO
 - PrimeSense / Apple / 华硕（ASUS）
+
+
+
 
 Microsoft Kinect
 =
