@@ -8,7 +8,14 @@ tags:  NVIDIA Tegra
 
 Fermi、Kepler、Maxwell、Pascal、Volta，这些都是正经的科学家名字，所以被用在了 GPU 上。但是 Tegra 家族的名字都非常古怪，什么 Logan、Xavier，都是谁谁谁？
 
-小张今天就来八一八。
+小张今天就来八一八这几个名字:
+- Kal-El
+- Wayne
+- Gray
+- Logan
+- Erista
+- Parker
+- Xavier
 
 
 

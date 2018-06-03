@@ -7,7 +7,17 @@ tags:  Vulkan OpenGL
 
 ![]({{ site.url }}/media/vulkan-logo.jpg)
 
-如果你属于以下几类人，那么别浪费时间在 Vulkan 上了。
+如果你属于以下几类人，那么别浪费时间在 Vulkan 上了:
+- 国内大学生
+- 不懂 OpenGL 或 D3D 的程序员
+- 用 cocos 和 unity 的程序员
+- iPhone、Mac 程序员
+- Windows 游戏程序员
+- Windows 应用程序员
+- Web 程序员
+
+
+
 
 国内大学生
 =

@@ -27,6 +27,9 @@ VR 地狱有几层？
 - 硬件 Geometry Shader 技术：只绘制一次，用硬件 Geometry Shader 生成左右两个场景。
 - 硬件 Instancing 技术：只绘制一次，用 instancing 技术生成左右两个场景。
 
+
+
+
 第一层：整个场景画两次
 =
 优点 － 最容易实现
