@@ -12,6 +12,9 @@ Processing/p5 的开发环境，简称为PDE，适合做快速开发（Sketching
 使用外置编辑器来作为 p5 开发环境是作为程序员的我第一时间就想做的
 在很久以前，这可以通过一种蛋疼的方式实现（略去不表）   
 
+
+
+
 但是现在，我们有了 Processing-java.exe 这么个命令行工具，虽然没有阅读官方的使用说明，但是从 help 中我们不难得知它的用法   
 	
 	e:\processing-2.0b6>processing-java.exe

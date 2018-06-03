@@ -7,12 +7,14 @@ tags: book Kinect AR
 
 [via packtpub][booklink]
 
-
-![](https://raw.github.com/vinjn/vinjn.github.io/master/images/Augmented-Reality-with-Kinect.png)
+![]({{ site.url }}/media/Augmented-Reality-with-Kinect.png)
 
 # A complete introduction to Fruit Ninja Kinect clone #
 
 The author Wang Rui is an experienced OpenGL / Kinect developer in China, I have known him for a long time. Last month, he recommends me reviewing his recent book on Kinect development.
+
+
+
 
 Augmented Reality with Kinect is a mini book published by Packt. In the beginning, it introduce Microsoft Kinect SDK with C++ language. And then demonstrates how to build a Fruit Ninja Kinect clone from scratch. What I like about the book is it's very self contained on the topic. It covers every details. Considering its small size, it does a great job.
 

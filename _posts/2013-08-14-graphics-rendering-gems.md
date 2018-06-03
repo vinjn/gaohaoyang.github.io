@@ -5,9 +5,6 @@ categories: rendering
 tags: papers
 ---
 
-{{ page.title }}
-================
-
 ## Siggraph
 
 2013
@@ -35,6 +32,9 @@ tags: papers
 * [2011](http://advances.realtimerendering.com/s2011/index.html)
 * [2012](http://advances.realtimerendering.com/s2012/index.html)
 * [2013](http://advances.realtimerendering.com/s2013/index.html)
+
+
+
 
 Beyond Programmable Shading
 

@@ -21,6 +21,9 @@ title: Nike 运动会跑步机互动项目的心得分享
 考虑各种可能出错的环节<br>
 Processing 效率不够的地方果断用 openFrameworks 来重写<br>
 
+
+
+
 ## 关于网络编程
 
 * 使用osc，Processing 用oscP5，C++使用ofxOsc

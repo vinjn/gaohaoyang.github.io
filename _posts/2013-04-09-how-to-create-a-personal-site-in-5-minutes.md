@@ -9,6 +9,9 @@ The title is a little bit exaggerated, actually it takes less than 1 minute.
 
 This site is totally hosted in Github, the repository name is [vinjn/vinjn.github.io](https://github.com/vinjn/vinjn.github.io). Each Github user can create his/her personal site.
 
+
+
+
 -----------------------------------------------------
 
 Let me tell the story.

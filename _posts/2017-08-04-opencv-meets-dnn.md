@@ -7,10 +7,10 @@ tags:  OpenCV DNN Caffe TensorFlow
 
 刚刚出炉的 OpenCV 3.3 版本增加了符合历史进程的新模块 dnn，也就是深度神经网络。dnn 模块其实很早就存在于 opencv_contrib 项目中，这次提到了主项目里，算是转正了。
 
-小张琢磨了下，这个 dnn 模块的卖点有这么几个：
-
-* content
-{:toc}
+小张琢磨了下，这个 dnn 模块的卖点有这么三个：
+- 零依赖
+- 支持导入其他框架的模型
+- API 极其简洁
 
 
 
@@ -63,4 +63,6 @@ Mat prob = net.forward("prob");
 
 ![]({{ site.url }}/media/to-be-continued.jpg)
 
-【黑客与画家】@Vinjn张静 的原创技术专栏，关注人工智能 + 视觉计算。
+http://vinjn.com
+
+@Vinjn张静 的技术专栏，关注人工智能 + 视觉计算。

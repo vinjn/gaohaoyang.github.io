@@ -12,8 +12,10 @@ title: Book Review of "Cinder - Begin Creative Coding"
 
 As a Cinder developer with two years experience, I have looking forward to this first Cinder book for long time. And lucky enough, I got the chance to obtain a free copy from publisher.
 
-The biggest merit of the book is its size, you can finish reading it in about one hour. And you will catch all the the core
-features of Cinder, including image loading, CPU image processing, OpenGL rendering, audio playing and interaction with mouse and keyboard. Due to the size, this book can't cover enough details, it requires a basic understanding of C++ language, the reader must be familiar with ideas like class and string.
+
+
+
+The biggest merit of the book is its size, you can finish reading it in about one hour. And you will catch all the the core features of Cinder, including image loading, CPU image processing, OpenGL rendering, audio playing and interaction with mouse and keyboard. Due to the size, this book can't cover enough details, it requires a basic understanding of C++ language, the reader must be familiar with ideas like class and string.
 
 If you have previous game development experience, or have used similar frameworks such as openFrameworks, then the book is enough to let you enter the world of Cinder. However it may be difficult to Processing users due to different syntax and complicated IDE setups. Visual Studio under Windows and Xcode under Mac. The good news is chapter 3 is contributed to step-to-step setups of these two environments.
 

@@ -13,6 +13,9 @@ I have been using Cinder for commercial projects for two years and this is the s
 
 Cinder is a great creative coding framework, however I have always find it difficult to explain the notion of creative coding to others, even to software developers. Since the birth of this book, I can point them to the book menu to make the problem clear. 
 
+
+
+
 - Chapter 1: Getting Started
 - Chapter 2: Preparing for Development
 - Chapter 3: Using Image Processing Techniques

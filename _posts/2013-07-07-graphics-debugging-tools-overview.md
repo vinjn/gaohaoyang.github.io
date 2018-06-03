@@ -3,8 +3,6 @@ layout: post
 title: An Overview of Graphics Debugging Tools
 ---
 
-> If you feel uncomfortable with the table style, feel free to check [this prettier one](https://github.com/vinjn/vinjn.github.io/blob/master/_posts/2013-07-07-graphics-debugging-tools-overview.md)
-
 **Desktop graphics debugger**
 
 Tool | Vendor | Host     | Device      | D3D   | OpenGL    | Comment  
@@ -19,6 +17,9 @@ Nsight | NVIDIA | desktop-OS| desktop-OS | 9/11| OpenGL 4.2   | Also supprots Op
 CodeXL|AMD|Win/Linux| Win/Linux |  | OpenGL    | formly [gDEBugger](http://www.gremedy.com/), also supports OpenCL,   [link](http://developer.amd.com/tools-and-sdks/heterogeneous-computing/codexl/)
 GPU PerfStudio|AMD |Win|Win|10/11 |OpenGL| [link](http://developer.amd.com/tools-and-sdks/graphics-development/gpu-perfstudio-2/)
 GPA-d3d| Intel |Windows | Windows |9~11|   | [link](http://software.intel.com/en-us/vcsource/tools/intel-gpa)
+
+
+
 
 **Android graphics debugger**
 
