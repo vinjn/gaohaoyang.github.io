@@ -5,19 +5,25 @@ categories: GPU
 tags:  GPU OpenGL DirectX Direct3D CUDA Vulkan
 ---
 
-![]({{ site.url }}/media/texture-preface.jpg)
+Texture 的含义在不同的时代与上下文中有着不同的含义，待我细细说来:
+
+- OpenGL 时代的 Texture 是一种名词
+- D3D10+ 时代的 Texture 是另一种名词
+- Vulkan 里的 Texture 是什么？
+- 在 GPU 内部 Texture 既是名词也是动词
+ 
+
+
 
 OpenGL 时代的 Texture 是一种名词
 =
+
 从应用开发者来看，texture 是一个名词，在物理上指的是 GPU 显存中一段连续的空间。
 
 ![]({{ site.url }}/media/gp104-mem.jpg)
 
 这张图是一款 N 卡，最中间的是核心部分 GPU - GP104，texture 的物理位置就在 GPU 周围的 1-2-3-4-5-6-7-8 个显存颗粒里，这个 GPU 配着 8G 显存。
 作为名词，texture 有着一些属性，比如宽度、高度、色彩通道数量，这部分属性和图片的属性相同的。
-
-
-
 
 作为名词，texture 还有一些特殊的属性，比如 mipmap。当我们创建一张 texture 的时候，我们创建的通常是一组大小不一致的 texture。
 ![]({{ site.url }}/media/texture-mipmap.jpg)
@@ -33,6 +39,7 @@ OpenGL 时代的 Texture 是一种名词
 
 D3D10+ 时代的 Texture 是另一种名词
 =
+
 D3D10 中引入了 view 的概念，和 texture 相关的 view 有
 
 - 只读的 view，SRV
