@@ -7,11 +7,7 @@ tags:  Vulkan VR Valve NVIDIA
 
 ![]({{ site.url }}/media/vulkan-valve-vr-preface.jpg)
 
-改编自 https://developer.nvidia.com/getting-vulkan-ready-vr
-
-原作者 James Jones, Mathias Schott
-
-这个事情是这样了，我们都知道 Vulkan 很酷，VR 是人类的未来，那么能否加起来一起用呢？
+这件事情是这样滴，我们都知道 Vulkan 很酷，VR 是人类的未来，那么能否加起来一起用呢？
 它们的首字母都一样，合体应该简单。
 
 ![]({{ site.url }}/media/vulkan-vr-1.jpg)
@@ -254,6 +250,10 @@ VkDedicatedAllocationImageCreateInfoNV dedicatedImageCreateInfo = {
 =
 Valve 支持 Vulkan 是大家都知道的事情，放在标题里是为了凑数。
 
+----
+改编自 https://developer.nvidia.com/getting-vulkan-ready-vr
+
+原作者 James Jones, Mathias Schott
 
 ----
 http://vinjn.com - 关注人工智能+视觉计算

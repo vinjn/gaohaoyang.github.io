@@ -16,15 +16,15 @@ OpenGL 时代的 Texture 是一种名词
 这张图是一款 N 卡，最中间的是核心部分 GPU - GP104，texture 的物理位置就在 GPU 周围的 1-2-3-4-5-6-7-8 个显存颗粒里，这个 GPU 配着 8G 显存。
 作为名词，texture 有着一些属性，比如宽度、高度、色彩通道数量，这部分属性和图片的属性相同的。
 
+
+
+
 作为名词，texture 还有一些特殊的属性，比如 mipmap。当我们创建一张 texture 的时候，我们创建的通常是一组大小不一致的 texture。
 ![]({{ site.url }}/media/texture-mipmap.jpg)
 
 这感觉就好像星巴克。
 
 ![]({{ site.url }}/media/starbucks-mipmap.jpg)
-
-
-
 
 通常意义上 texture 是一个对 GPU 只读的资源，想写 texture 需要在它之上创建一个 fbo，这在逻辑上其实说不通。
 
