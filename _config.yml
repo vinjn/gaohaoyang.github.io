@@ -7,7 +7,7 @@
 
 # Site settings
 title: vinjn.com
-brief-intro: Thoughts of AI Computing and Visual Computing
+brief-intro: Democratize AI Computing and Visual Computing
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://vinjn.com" # the base hostname & protocol for your site
 

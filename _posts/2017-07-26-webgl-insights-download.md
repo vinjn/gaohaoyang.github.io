@@ -94,4 +94,4 @@ VII. Interaction
 终于可以把我的盗版 pdf 删了，换成正版的。（总觉得哪里不太对）
 
 ----
-http://vinjn.com - 人工智能+视觉计算
+http://vinjn.com - 关注人工智能+视觉计算
