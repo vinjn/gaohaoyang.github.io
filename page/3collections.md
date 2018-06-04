@@ -11,7 +11,10 @@ type: page
 
 Editor
 =
-* Sublime Text 3
+
+### VS Code ###
+
+### Sublime Text 3 ###
   * Package Control
   * All Autocomplete
   * Perforce
@@ -32,7 +35,8 @@ Editor
   * ConvertToUTF8
   * Shader Syntax 
   * TortoiseSVN
-* Notepad++
+
+### Notepad++ ###
   * Explorer
   * NppExec
   * TextFX Characters
@@ -41,11 +45,11 @@ Utils
 =
 * Executor
 * Everything
-* Total Commander
+### Total Commander ###
   * Imagine
   * android_adb
 * IrfanView
-* SysinternalsSuite
+### SysinternalsSuite ###
   * DebugView
   * Process Explorer
   * Process Monitor
@@ -62,7 +66,7 @@ Programming
 
 Network
 =
-* Chrome
+### Chrome plugins ###
   * Vimium
   * AdBlock
   * Send to Kindle

@@ -66,7 +66,7 @@ type: page
 
 * Maintenance of transformer substations.
 
-# Projects on *https://github.com/vinjn* #
+# Open source projects #
 
 * [island](https://github.com/island-org/island), a light-weight and low-level creative coding framework in C.
 * [chihuahua](https://github.com/jing-engine/chihuahua), 3d graphics engine based on irrlicht, bgfx, assimp etc.
