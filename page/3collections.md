@@ -6,6 +6,9 @@ icon: bookmark
 type: page
 ---
 
+* content
+{:toc}
+
 Editor
 =
 * Sublime Text 3
