@@ -1,6 +1,7 @@
 ---
 layout: post
 title: How to develop Android apps with pure C++
+tags: Android ndk
 ---
 
 This article takes /ndk/samples/native-activity as the example.

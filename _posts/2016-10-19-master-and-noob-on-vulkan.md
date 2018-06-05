@@ -130,4 +130,4 @@ tags:  Vulkan OpenGL
 原作者：Robert Menzel
 
 ----
-http://vinjn.com - 关注人工智能+视觉计算
+vinjn.com - Democratizing Visual Computing

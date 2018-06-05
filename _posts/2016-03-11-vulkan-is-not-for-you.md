@@ -65,4 +65,4 @@ WebGL 整了这么多年都没火，别指望 Vulkan 能 js 化。再说了，Vu
 
 
 ----
-http://vinjn.com - 关注人工智能+视觉计算
+vinjn.com - Democratizing Visual Computing

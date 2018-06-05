@@ -256,4 +256,4 @@ Valve 支持 Vulkan 是大家都知道的事情，放在标题里是为了凑数
 原作者 James Jones, Mathias Schott
 
 ----
-http://vinjn.com - 关注人工智能+视觉计算
+vinjn.com - Democratizing Visual Computing

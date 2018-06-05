@@ -96,4 +96,4 @@ tags:  OpenCV Kinect Processing
 ![]({{ site.url }}/media/matrix-smith.jpg)
 
 ----
-http://vinjn.com - 关注人工智能+视觉计算
+vinjn.com - Democratizing Visual Computing

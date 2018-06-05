@@ -87,4 +87,4 @@ Xavier 的超能力是心灵感应、精神控制、深度学习、人工智能�
 
 
 ----
-http://vinjn.com - 关注人工智能+视觉计算
+vinjn.com - Democratizing Visual Computing

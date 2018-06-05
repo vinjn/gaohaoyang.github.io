@@ -70,4 +70,4 @@ ps. 对体感设备感兴趣的可以继续阅读 市售体感设备横评：微
 
 
 ----
-http://vinjn.com - 关注人工智能+视觉计算
+vinjn.com - Democratizing Visual Computing

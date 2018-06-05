@@ -49,4 +49,4 @@ tags:  OpenCV Graphics CV CG
 它既需要 CG，又需要 CV，当然也不会漏掉 DIP。它用 DIP 进行预处理，用 CV 进行跟踪物体的识别与姿态获取，用 CG 进行虚拟三维物体的叠加。
 
 ----
-http://vinjn.com - 关注人工智能+视觉计算
+vinjn.com - Democratizing Visual Computing

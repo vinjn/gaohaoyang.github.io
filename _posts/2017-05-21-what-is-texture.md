@@ -90,4 +90,4 @@ Texture 到底是什么？
 
 
 ----
-http://vinjn.com - 关注人工智能+视觉计算
+vinjn.com - Democratizing Visual Computing

@@ -96,4 +96,4 @@ NVIDIA 的开源渲染引擎 nvpro-pipeline 也于这周加入了 glTF 的支持
 不论你是 AR、VR 的设备的提供商或是内容制作商，都可以把支持 glTF 放进 roadmap 了，这是现在看来最有未来的内容格式。
 
 ----
-http://vinjn.com - 关注人工智能+视觉计算
+vinjn.com - Democratizing Visual Computing

@@ -91,4 +91,4 @@ clipPositionOut = clipPos;
 ​本文部分选自 <Timothy Wilson - High performance stereo rendering for VR>
 
 ----
-http://vinjn.com - 关注人工智能+视觉计算
+vinjn.com - Democratizing Visual Computing

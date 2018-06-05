@@ -196,4 +196,4 @@ PrimeSense 是 Kinect 一代的芯片供应商，位于以色列，也是开源�
 
 
 ----
-http://vinjn.com - 关注人工智能+视觉计算
+vinjn.com - Democratizing Visual Computing

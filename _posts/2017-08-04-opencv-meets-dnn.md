@@ -66,4 +66,4 @@ Mat prob = net.forward("prob");
 ![]({{ site.url }}/media/to-be-continued.jpg)
 
 ----
-http://vinjn.com - 关注人工智能+视觉计算
+vinjn.com - Democratizing Visual Computing
