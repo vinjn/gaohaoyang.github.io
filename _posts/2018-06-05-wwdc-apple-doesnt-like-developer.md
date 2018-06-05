@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "WWDC 有感：苹果开发者？"
+title:  "WWDC 有感：苹果爱自己，它爱开发者嘛？"
 categories: OpenGL
 tags:  OpenGL OpenCL Apple USDZ Vulkan
 ---
