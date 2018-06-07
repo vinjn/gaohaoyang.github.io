@@ -121,7 +121,3 @@ My personal favorites
 * Android-glTracer for OpenGL-ES
 * Chrome Canvas Inspector for WebGL 
 
-Comments
-=
-
-{% include comments.html %}
