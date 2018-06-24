@@ -83,7 +83,7 @@ Processing、openFrameworks 这些数字艺术家最爱的创意编码工具，�
 
 ----
 相关技术文章
-- [glTF](https://www.vinjn.com/category/#glTF)
+- [glTF](https://www.vinjn.com/tag/#glTF)
 - [Vulkan](https://www.vinjn.com/tag/#Vulkan)
 - [OpenGL](https://www.vinjn.com/tag/#OpenGL)
 - [Processing](https://www.vinjn.com/tag/#Processing)
