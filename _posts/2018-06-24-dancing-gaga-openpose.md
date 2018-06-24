@@ -14,6 +14,8 @@ tags:  OpenPose OpenCV Kinect Darknet DeepLearning
 然而，现在已成 AI 脑残粉。
 
 
+
+
 它的网络结构如下：
 
 ![]({{ site.url }}/media/gaga-network.png)
