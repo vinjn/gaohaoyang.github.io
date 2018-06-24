@@ -14,9 +14,9 @@ tags:  OpenPose OpenCV Kinect Darknet DeepLearning
 然而，现在已成 AI 脑残粉。
 
 
-它的网络结构是一个卷积神经网络，输入的是 224X224 的彩色图片。
+它的网络结构如下：
 
-![]({{ site.url }}/media/gaga-network.jpg)
+![]({{ site.url }}/media/gaga-network.png)
 
 OpenPose 预测的人体骨骼如下图，用来尬舞足够。
 
@@ -26,15 +26,11 @@ OpenPose 预测的人体骨骼如下图，用来尬舞足够。
 
 听说创造101的小姐姐很火，pick me pick me，请无视我的舞技。
 
-<video controls>
-<source src="https://www.zhihu.com/video/994207544205803520">
-</video>
-
-<iframe  src="https://www.zhihu.com/video/994207544205803520"></iframe>
+<iframe src='//gifs.com/embed/zKDqWY' frameborder='0' scrolling='no' width='642px' height='388px' style='-webkit-backface-visibility: hidden;-webkit-transform: scale(1);' ></iframe>
 
 换个小姐姐再来一段，请继续无视我的舞技。
 
-<iframe  src="https://www.zhihu.com/video/994207581874892800"></iframe>
+<iframe src="//gifs.com/embed/L8OAKw" frameborder="0" scrolling="no" width="642px" height="388px" style="-webkit-backface-visibility: hidden;-webkit-transform: scale(1);"></iframe>
 
 这么接地气的软件哪里可以下载呢？是否开源？
 
