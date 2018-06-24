@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "懂你的 AI，助你与爱豆组团尬舞"
+title:  "AI 尬舞机，与爱豆一起尬个舞"
 categories: DeepLearning
 tags:  OpenPose OpenCV Kinect Darknet DeepLearning
 ---
