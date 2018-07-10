@@ -15,7 +15,14 @@ type: page
 * vinjn.z@gmail.com
 * Sep 2004 - Jun 2008, Bachelor, Computer Science, Shanghai Jiao Tong University.
 
-# Skills #
+# Technique #
+
+Jing is passionate with Visual Computing in
+
+* Computer Graphics, especially real-time rendering
+* Computer Vision, both traditional CV and deep-learning
+* Virtual and Augmented Reality
+* Data Visualization
 
 * C++ / C > Java > Python / Javascript.
 * Platforms: Windows, Linux, Android, macOS.
@@ -23,14 +30,14 @@ type: page
 * Computer Vision: OpenCV, Augumented Reality SDKs, Kinect.
 * Game Development: irrlicht, Cinder, Unity, Processing, cocos2d-x.
 
-# Professional #
+# Experience #
 
 ### Jan 2015 - Present, Senior GPU Architect / Team Leader, nVidia ###
 
-* Leading the team across China and India to serve global customers.
-* Developing [Vulkan API tracing tools](https://github.com/LunarG/VulkanTools), including trace capturer and trace replayer.
-* Developing OpenGL API tracing tools, including trace capturer, trace-to-cpp converter and trace replayer, covers Windows, Linux and Android.
-* Developing next-gen GPU performance analysis tool.
+Leading two distinct teams:
+
+- Team with compute graphics expertise, delivering graphics API (Vulkan and OpenGL) instrumenting tools. Generating real world stimulus and performance data for Tegra BU, Geforce BU and Quadro BU, impacts driver bring-up, GPU design and competitive analysis.
+- Team composed of full-stack web experts, delivering in-house data visualization frameworks.
 
 ### Aug 2014 - Jan 2015, Software Engineer II, Microsoft ###
 
