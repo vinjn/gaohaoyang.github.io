@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "NVIDIA 校招- 无人驾驶与人工智能方向"
+title:  "NVIDIA 校招 - 无人驾驶与人工智能方向"
 categories: DeepLearning
 tags:  NVIDIA DeepLearning
 ---
