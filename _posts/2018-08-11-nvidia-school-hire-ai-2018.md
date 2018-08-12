@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "NVIDIA 校招 - 无人驾驶与人工智能方向"
+title:  "NVIDIA 校招内推 - 无人驾驶与人工智能方向"
 categories: DeepLearning
 tags:  NVIDIA DeepLearning
 ---
@@ -41,7 +41,7 @@ NVIDIA（纳斯达克股票代码：NVDA）是一家人工智能计算公司。�
 AI Developer Technology Engineer	北京/上海/深圳
 ====
 
-计算机科学相关专业的优秀硕士、博士毕业生
+- 计算机科学相关专业的优秀硕士、博士毕业生
 - 拥有深度学习/机器学习领域的扎实理论基础，熟悉常见的深度学习网络或机器学习算法
 - 拥有良好的C/C++编程能力，良好的软件设计和开发能力 
 -（可选）有并行计算编程基础，有CUDA C/C++编程经验更佳
@@ -51,7 +51,7 @@ AI Developer Technology Engineer	北京/上海/深圳
 Autonomous Driving System Engineer	上海
 ====
 
-计算机科学相关专业的优秀硕士、博士毕业生
+- 计算机科学相关专业的优秀硕士、博士毕业生
 - 较好的C/C++编程能力
 - 熟悉计算机体系结构
 - 熟悉Linux Driver/Linux Kernel
@@ -61,6 +61,7 @@ Autonomous Driving System Engineer	上海
 
 Deep Learning Performance Architect	上海
 ====
+
 - 追求极致的性能优化
 - 热爱从上层应用算法到底层软硬件协同优化
 - 有较强的编程能力（C/C++/Python）
@@ -79,7 +80,7 @@ Deep Learning Engineer for Self-driving Car	上海
 Deep Learning Solution Architect	北京
 ====
 
-计算机科学相关专业的优秀硕士、博士毕业生 
+- 计算机科学相关专业的优秀硕士、博士毕业生
 - 拥有深度学习/机器学习领域的扎实理论基础
 - 良好的沟通能力
 
@@ -87,6 +88,7 @@ Deep Learning Solution Architect	北京
 
 High Performance Computing Research Engineer 北京/上海/深圳
 ====
+
 - 电子、自动化、计算机等相关专业，硕士及以上学历
 - 有性能分析，性能模型，或性能优化背景和经验。
 - 熟悉计算机体系结构。在某种处理器架构上（GPU，ARM，FPGA，MIC，申威等）做过深入工作
@@ -96,7 +98,7 @@ High Performance Computing Research Engineer 北京/上海/深圳
 Machine Learning Algorithm Engineer	北京/上海/深圳
 ====
 
-电子、自动化、计算机等相关专业，硕士及以上学历。
+- 电子、自动化、计算机等相关专业，硕士及以上学历。
 - 理解，熟练掌握和运用机器学习的基础理论和方法。
 - 在一个或多个垂直领域有过深入研究（包括但不限于图像处理，语音识别，语义理解，推荐算法等）
 
