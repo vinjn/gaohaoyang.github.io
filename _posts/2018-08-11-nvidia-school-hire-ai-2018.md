@@ -35,6 +35,8 @@ NVIDIA（纳斯达克股票代码：NVDA）是一家人工智能计算公司。�
 - Web Full-Stack Engineer - AI Cloud – 上海
 
 
+
+
 下面是这些职位的详细需求和网申地址，记得填上我的推荐码 :)
 
 ![]({{ site.url }}/media/nvidia-ncg.jpg)
