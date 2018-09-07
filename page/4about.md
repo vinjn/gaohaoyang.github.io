@@ -9,7 +9,7 @@ type: page
 
 # Jing Zhang / 张静 #
 
-Jing is self-motivated engineer with expertise in `Computer Graphics` and `Computer Vision`. He is programming language agnostic, he speaks `C`, `C++`, `Python`, `JavaScript` and `Java`. He is also platform agnostic and has shipped products on Windows, Linux, Android, macOS and Xbox.
+Jing is self-motivated engineer with expertise in `Computer Graphics` and `Computer Vision`. He is programming language agnostic, he speaks `C`, `C++`, `Python`, `JavaScript`, `glsl` and `Java`. He is also platform agnostic and has shipped products on Windows, Linux, Android, macOS and Xbox.
 
 Jing's career path is all about `GPU`, his experience in GPU ranges from high-level application like 3d game engine and GPU-accelerated data visualization, through mid-level graphics API instrumenting tools, to low-level GPU performance profiling tools.
 
@@ -60,6 +60,7 @@ Leader of two distinct teams, mentoring members and planning schedules:
 
 # As a githuber #
 
+- [FaceVFX](https://github.com/jing-interactive/FaceVFX) - mapping real-time visual effect to human face.
 - [lightnet](https://github.com/jing-vision/lightnet) - lightweight turnkey solution for AI.
 - [island](https://github.com/island-org/island) - lightweight creative coding framework in C.
 - [RenderDog](https://github.com/jing-interactive/RenderDog) - sandbox to prototype realtime rendering effects w/o writing code.
