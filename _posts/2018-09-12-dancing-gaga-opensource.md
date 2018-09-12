@@ -2,7 +2,7 @@
 layout: post
 title:  "AI 尬舞机已开源"
 categories: DeepLearning
-tags:  NVIDIA DeepLearning
+tags:  NVIDIA DeepLearning OpenPose Darknet
 ---
 
 ![]({{ site.url }}/media/robot-dance.jpg)
