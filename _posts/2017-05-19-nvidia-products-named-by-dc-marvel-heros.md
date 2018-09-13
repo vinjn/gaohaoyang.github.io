@@ -1,8 +1,7 @@
 ---
 layout: post
-title:  "漫威 + DC，英伟达为何不放过超级英雄"
-categories: NVIDIA
-tags:  NVIDIA Tegra
+title: "漫威 + DC，英伟达为何不放过超级英雄"
+tags: nvidia marvel tegra
 ---
 ![]({{ site.url }}/media/old-logan.jpg)
 

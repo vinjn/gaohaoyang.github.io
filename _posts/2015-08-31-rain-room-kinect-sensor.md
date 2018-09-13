@@ -1,8 +1,7 @@
 ---
 layout: post
-title:  "花150元淋10分钟雨？在你的朋友圈将被“雨屋”刷爆前，知道这些会让你更酷"
-categories: Kinect
-tags:  OpenCV Kinect Processing
+title: "花150元淋10分钟雨？在你的朋友圈将被“雨屋”刷爆前，知道这些会让你更酷"
+tags: opencv kinect processing
 ---
 
 ![]({{ site.url }}/media/rain-room-preface.jpg)

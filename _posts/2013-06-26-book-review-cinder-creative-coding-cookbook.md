@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Book Review of "Cinder Creative Coding Cookbook"
-tags:  Cinder
+tags: cinder
 ---
 
 via [Packt](http://www.packtpub.com/cinder-creative-coding-cookbook/book)   

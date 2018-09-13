@@ -1,8 +1,7 @@
 ---
 layout: post
-title:  "OpenCV 为啥勾搭上 OpenGL？"
-categories: OpenCV
-tags:  OpenCV OpenGL
+title: "OpenCV 为啥勾搭上 OpenGL？"
+tags: opencv opengl
 ---
 
 ![]({{ site.url }}/media/fish-and-bear.jpg)

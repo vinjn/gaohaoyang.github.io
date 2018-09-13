@@ -1,8 +1,7 @@
 ---
 layout: post
-title:  "NVIDIA 校招内推 - 无人驾驶与人工智能方向"
-categories: DeepLearning
-tags:  NVIDIA DeepLearning
+title: "NVIDIA 校招内推 - 无人驾驶与人工智能方向"
+tags: nvidia deeplearning
 ---
 
 ![]({{ site.url }}/media/nvidia-self-driving.jpg)

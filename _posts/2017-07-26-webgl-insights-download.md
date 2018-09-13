@@ -1,8 +1,7 @@
 ---
 layout: post
-title:  "WebGL Insights 全书免费下载"
-categories: WebGL
-tags:  WebGL book
+title: "WebGL Insights 全书免费下载"
+tags: webgl book
 ---
 
 

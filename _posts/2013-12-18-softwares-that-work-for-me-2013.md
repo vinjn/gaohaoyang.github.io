@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 提升工作效率的必备软件 2013 版
+tags: tool
 ---
 
 ## Target Audience ##

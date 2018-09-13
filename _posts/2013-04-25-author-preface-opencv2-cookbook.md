@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 我和 OpenCV 的故事，兼译者序
+tags:  opencv
 ---
 
 我翻译的《OpenCV 2 Computer Vision Application Programming Cookbook》将于近期面世，本文是译者序

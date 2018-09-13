@@ -1,8 +1,7 @@
 ---
 layout: post
-title:  "市售体感设备横评：微软、Intel、苹果、LeapMotion 哪家强！"
-categories: Kinect
-tags:  Kinect OpenNI
+title: "市售体感设备横评：微软、Intel、苹果、LeapMotion 哪家强！"
+tags: kinect openni leap-motion
 ---
 
 这篇文章中我整理了市面上常见的深度摄像头、优缺点及使用场景。

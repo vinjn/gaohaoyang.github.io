@@ -1,8 +1,7 @@
 ---
 layout: post
-title:  "Vulkan、VR 和 Valve，三个 V 走到一起了"
-categories: Vulkan
-tags:  Vulkan VR Valve NVIDIA
+title: "Vulkan、VR 和 Valve，三个 V 走到一起了"
+tags: vulkan virtual-reality valve nvidia
 ---
 
 ![]({{ site.url }}/media/vulkan-valve-vr-preface.jpg)

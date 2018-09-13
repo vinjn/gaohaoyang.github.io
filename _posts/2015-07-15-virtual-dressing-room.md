@@ -1,8 +1,7 @@
 ---
 layout: post
-title:  "正经点，我们来聊聊优衣库的虚拟试衣"
-categories: Kinect
-tags:  Kinect Unity3D
+title: "正经点，我们来聊聊优衣库的虚拟试衣"
+tags: kinect unity3d
 ---
 
 ![]({{ site.url }}/media/uniqlo-virtual.jpg)

@@ -1,8 +1,7 @@
 ---
 layout: post
-title:  "鱼和熊掌兼得，DNN加入 OpenCV 全家桶"
-categories: OpenCV
-tags:  OpenCV DNN Caffe TensorFlow
+title: "鱼和熊掌兼得，DNN加入 OpenCV 全家桶"
+tags: opencv dnn caffe tensorflow
 ---
 
 ![]({{ site.url }}/media/fish-and-bear.jpg)

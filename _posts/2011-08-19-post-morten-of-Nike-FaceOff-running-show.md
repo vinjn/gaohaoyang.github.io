@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Nike 运动会跑步机互动项目的心得分享
-tags:  Processing openFrameworks
+tags: processing openframeworks
 ---
 
 本文曾连载于[hudo.it 社区](http://www.hudo.it/index.php/topic,21.0.html)

@@ -1,8 +1,7 @@
 ---
 layout: post
-title:  "青年问禅师之是否应该学 Vulkan"
-categories: Vulkan
-tags:  Vulkan OpenGL
+title: "青年问禅师之是否应该学 Vulkan"
+tags: vulkan opengl
 ---
 
 ![]({{ site.url }}/media/master-and-noob.jpg)

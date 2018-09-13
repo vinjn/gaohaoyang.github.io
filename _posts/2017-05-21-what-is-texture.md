@@ -1,8 +1,7 @@
 ---
 layout: post
 title:  "Texture 是什么？"
-categories: GPU
-tags:  GPU OpenGL DirectX Direct3D CUDA Vulkan
+tags: gpu opengl directx cuda vulkan
 ---
 
 Texture 的含义在不同的时代与上下文中有着不同的含义，待我细细说来:

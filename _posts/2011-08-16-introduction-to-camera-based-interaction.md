@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 摄像头互动入门指南
-tags:  OpenCV OSC Processing openFrameworks
+tags: opencv osc processing openframeworks
 ---
 
 这篇文章最初是QQ群中回答网友提问的记录，之后发表在豆瓣小组以及[hudo.it 社区](http://www.hudo.it/index.php/topic,16.0.html) 中
@@ -67,6 +67,4 @@ reacTIVision识别用的黑白图片好难看啊，怎么来的？
 这其实和ArToolkit里的方块图片起的是同样的作用。 
 
 ![](http://www.hitl.washington.edu/artoolkit/images/nakaohome.jpg)
-
-
 

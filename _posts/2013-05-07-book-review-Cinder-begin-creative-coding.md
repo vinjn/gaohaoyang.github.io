@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Book Review of "Cinder - Begin Creative Coding"
-tags:  Cinder
+tags: cinder
 ---
 
 [via packtpub][booklink]

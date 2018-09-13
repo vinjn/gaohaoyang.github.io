@@ -1,6 +1,7 @@
 ---
 layout: post
 title: How to Create a Personal Site in 5 Minutes
+tags: github
 ---
 
 This is the first entry of my new blog. This post serves as a meta blog, which tells the story of how the blog comes into being.

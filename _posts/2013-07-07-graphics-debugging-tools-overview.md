@@ -1,6 +1,7 @@
 ---
 layout: post
 title: An Overview of Graphics Debugging Tools
+tags: graphics-debugger graphics-profiler
 ---
 
 **Desktop graphics debugger**

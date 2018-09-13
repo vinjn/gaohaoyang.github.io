@@ -1,8 +1,7 @@
 ---
 layout: post
 title: 图形渲染中的好文章
-categories: rendering
-tags: papers
+tags: rendering
 ---
 
 ## Siggraph

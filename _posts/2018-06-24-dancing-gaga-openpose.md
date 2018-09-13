@@ -1,8 +1,7 @@
 ---
 layout: post
-title:  "AI 尬舞机，与爱豆一起尬个舞"
-categories: DeepLearning
-tags:  OpenPose OpenCV Kinect Darknet DeepLearning
+title: "AI 尬舞机，与爱豆一起尬个舞"
+tags: openpose opencv kinect darknet deeplearning
 ---
 
 ![]({{ site.url }}/media/gaga-preface.jpg)

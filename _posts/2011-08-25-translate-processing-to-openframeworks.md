@@ -1,7 +1,7 @@
 ---
 layout: post
 title: A naive approach to translating P5 project to OF project
-tags:  openFrameworks
+tags: openframeworks
 ---
 
 There is no one-for-all solution to automatically translate a processing sketch to a openFrameworks one.

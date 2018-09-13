@@ -1,8 +1,7 @@
 ---
 layout: post
 title:  "你们最爱的微信表情包，到了 VR 时代会变成什么样？"
-categories: glTF
-tags:  Oculus glTF Khronos
+tags: oculus gltf khronos
 ---
 
 ![]({{ site.url }}/media/ge-you-tan-vr.jpg)

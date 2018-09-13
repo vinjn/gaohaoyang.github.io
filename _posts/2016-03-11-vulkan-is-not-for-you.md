@@ -1,8 +1,7 @@
 ---
 layout: post
-title:  "Vulkan 很酷很炫，但是不适合你"
-categories: Vulkan
-tags:  Vulkan OpenGL
+title: "Vulkan 很酷很炫，但是不适合你"
+tags: vulkan opengl
 ---
 
 ![]({{ site.url }}/media/vulkan-logo.jpg)

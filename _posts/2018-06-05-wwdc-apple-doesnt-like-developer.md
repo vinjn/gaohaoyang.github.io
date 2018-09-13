@@ -1,8 +1,7 @@
 ---
 layout: post
-title:  "WWDC 有感：苹果爱自己，它爱开发者嘛？"
-categories: OpenGL
-tags:  OpenGL OpenCL Apple USDZ Vulkan
+title: "WWDC 有感：苹果爱自己，它爱开发者嘛？"
+tags: opengl opencl apple usdz vulkan
 ---
 
 ![]({{ site.url }}/media/1984-apple.jpg)

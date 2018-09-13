@@ -1,8 +1,7 @@
 ---
 layout: post
 title:  "计算机视觉、图形学和图像处理，三者有什么联系？"
-categories: OpenCV
-tags:  OpenCV Graphics CV CG
+tags: opencv graphics computer-vision
 ---
 
 ![]({{ site.url }}/media/13th-floor.jpg)

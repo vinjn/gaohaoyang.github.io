@@ -1,8 +1,7 @@
 ---
 layout: post
-title:  "#纯干货#加速 VR 渲染地狱难度进阶篇之降低图形 API 调用次数"
-categories: VR
-tags:  VR Direct3D
+title: "#纯干货#加速 VR 渲染地狱难度进阶篇之降低图形 API 调用次数"
+tags: virtual-reality directx
 ---
 
 ![]({{ site.url }}/media/vr-oculus-header.jpg)
