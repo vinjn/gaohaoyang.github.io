@@ -4,6 +4,9 @@ title:  "Texture 是什么？"
 tags: gpu opengl directx cuda vulkan
 ---
 
+* content
+{:toc}
+
 Texture 的含义在不同的时代与上下文中有着不同的含义，待我细细说来:
 
 - OpenGL 时代的 Texture 是一种名词

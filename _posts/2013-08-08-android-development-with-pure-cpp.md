@@ -4,6 +4,9 @@ title: How to develop Android apps with pure C++
 tags: android ndk
 ---
 
+* content
+{:toc}
+
 This article takes /ndk/samples/native-activity as the example.
 
 ## install-adt

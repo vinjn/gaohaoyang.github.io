@@ -3,6 +3,10 @@ layout: post
 title: "漫威 + DC，英伟达为何不放过超级英雄"
 tags: nvidia marvel tegra
 ---
+
+* content
+{:toc}
+
 ![]({{ site.url }}/media/old-logan.jpg)
 
 Fermi、Kepler、Maxwell、Pascal、Volta，这些都是正经的科学家名字，所以被用在了 GPU 上。但是 Tegra 家族的名字都非常古怪，什么 Logan、Xavier，都是谁谁谁？

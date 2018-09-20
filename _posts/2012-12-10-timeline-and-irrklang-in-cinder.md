@@ -4,6 +4,9 @@ title: 在 Cinder 中使用 timeline 实现复杂的声音播放逻辑
 tags: cinder audio
 ---
 
+* content
+{:toc}
+
 本文[首发](http://www.hudo.it/index.php/topic,495.0.html)于 hudo.it 社区
 
 ----------------------

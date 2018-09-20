@@ -4,6 +4,9 @@ title: How to Create a Personal Site in 5 Minutes
 tags: github
 ---
 
+* content
+{:toc}
+
 This is the first entry of my new blog. This post serves as a meta blog, which tells the story of how the blog comes into being.
 
 The title is a little bit exaggerated, actually it takes less than 1 minute.

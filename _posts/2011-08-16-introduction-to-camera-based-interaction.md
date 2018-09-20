@@ -4,6 +4,9 @@ title: 摄像头互动入门指南
 tags: opencv osc processing openframeworks
 ---
 
+* content
+{:toc}
+
 这篇文章最初是QQ群中回答网友提问的记录，之后发表在豆瓣小组以及[hudo.it 社区](http://www.hudo.it/index.php/topic,16.0.html) 中
 
 ------------

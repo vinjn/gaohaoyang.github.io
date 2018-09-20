@@ -4,6 +4,9 @@ title: "AI 尬舞机已开源"
 tags: nvidia deeplearning openpose darknet
 ---
 
+* content
+{:toc}
+
 ![]({{ site.url }}/media/robot-dance.jpg)
 
 暂时只支持 Windows 平台 + NVDIA GPU，编译需要 Visual Studio 2015+。

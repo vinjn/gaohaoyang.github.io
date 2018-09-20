@@ -4,6 +4,9 @@ title: "鱼和熊掌兼得，DNN加入 OpenCV 全家桶"
 tags: opencv dnn caffe tensorflow
 ---
 
+* content
+{:toc}
+
 ![]({{ site.url }}/media/fish-and-bear.jpg)
 
 刚刚出炉的 OpenCV 3.3 版本增加了符合历史进程的新模块 dnn，也就是深度神经网络。dnn 模块其实很早就存在于 opencv_contrib 项目中，这次提到了主项目里，算是转正了。

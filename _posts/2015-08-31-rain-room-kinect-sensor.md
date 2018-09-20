@@ -4,6 +4,9 @@ title: "花150元淋10分钟雨？在你的朋友圈将被“雨屋”刷爆前�
 tags: opencv kinect processing
 ---
 
+* content
+{:toc}
+
 ![]({{ site.url }}/media/rain-room-preface.jpg)
 
 你打算花 150 元排 3 小时队只为淋 10 分钟雨？小张的这篇文章让你排队的时候多点谈资。这次分享的是关于九月份即将引爆上海滩和朋友圈的《雨屋》，也就是题图中的场景。

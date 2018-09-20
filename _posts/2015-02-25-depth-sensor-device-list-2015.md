@@ -4,6 +4,9 @@ title: "市售体感设备横评：微软、Intel、苹果、LeapMotion 哪家�
 tags: kinect openni leap-motion
 ---
 
+* content
+{:toc}
+
 这篇文章中我整理了市面上常见的深度摄像头、优缺点及使用场景。
 - Microsoft Kinect
 - Microsoft Kinect One

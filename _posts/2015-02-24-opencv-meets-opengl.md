@@ -4,6 +4,9 @@ title: "OpenCV 为啥勾搭上 OpenGL？"
 tags: opencv opengl
 ---
 
+* content
+{:toc}
+
 ![]({{ site.url }}/media/fish-and-bear.jpg)
 
 如果读者留意 OpenCV 2.3 之后的版本，那么会发现 cv::ogl namespace，ogl 自然是 OpenGL了。一个三维计算机图形库为何出现在计算机视觉中，传统的 CV 开发者是否需要学习它，这些问题待我一一来回答。

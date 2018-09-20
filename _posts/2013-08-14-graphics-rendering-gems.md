@@ -4,6 +4,9 @@ title: 图形渲染中的好文章
 tags: rendering
 ---
 
+* content
+{:toc}
+
 ## Siggraph
 
 2013

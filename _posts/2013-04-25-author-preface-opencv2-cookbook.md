@@ -4,6 +4,9 @@ title: 我和 OpenCV 的故事，兼译者序
 tags:  opencv
 ---
 
+* content
+{:toc}
+
 我翻译的《OpenCV 2 Computer Vision Application Programming Cookbook》将于近期面世，本文是译者序
 
 ![]({{ site.url }}/media/opecv-cookbook-face.jpg)

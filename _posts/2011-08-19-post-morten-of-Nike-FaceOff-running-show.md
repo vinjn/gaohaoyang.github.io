@@ -4,6 +4,9 @@ title: Nike 运动会跑步机互动项目的心得分享
 tags: processing openframeworks
 ---
 
+* content
+{:toc}
+
 本文曾连载于[hudo.it 社区](http://www.hudo.it/index.php/topic,21.0.html)
 
 [现场视频1](http://v.youku.com/v_show/id_XMjk2MTc3NzU2.html)

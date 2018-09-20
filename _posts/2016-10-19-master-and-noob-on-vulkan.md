@@ -4,6 +4,9 @@ title: "青年问禅师之是否应该学 Vulkan"
 tags: vulkan opengl
 ---
 
+* content
+{:toc}
+
 ![]({{ site.url }}/media/master-and-noob.jpg)
 
 小白：在嘛？

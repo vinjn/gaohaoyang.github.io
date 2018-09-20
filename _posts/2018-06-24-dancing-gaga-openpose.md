@@ -4,6 +4,9 @@ title: "AI 尬舞机，与爱豆一起尬个舞"
 tags: openpose opencv kinect darknet deeplearning
 ---
 
+* content
+{:toc}
+
 ![]({{ site.url }}/media/gaga-preface.jpg)
 
 这项名为 OpenPose 的神经网络技术，解决的是一个非常接地气的问题，用最最普通的 RGB 摄像头做输入，检测出人体的骨骼位置。

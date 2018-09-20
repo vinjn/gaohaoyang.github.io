@@ -4,6 +4,9 @@ title: "WWDC 有感：苹果爱自己，它爱开发者嘛？"
 tags: opengl opencl apple usdz vulkan
 ---
 
+* content
+{:toc}
+
 ![]({{ site.url }}/media/1984-apple.jpg)
 
 在 1984 年的超级碗广告中，苹果将自己描述为一锤子打破老大哥统治的叛逆者，这个广告获得了极大的成功。彼时的老大哥指的是 IBM。

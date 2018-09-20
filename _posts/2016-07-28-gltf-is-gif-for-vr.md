@@ -4,6 +4,9 @@ title:  "你们最爱的微信表情包，到了 VR 时代会变成什么样？"
 tags: oculus gltf khronos
 ---
 
+* content
+{:toc}
+
 ![]({{ site.url }}/media/ge-you-tan-vr.jpg)
 
 为何需要一种新格式？

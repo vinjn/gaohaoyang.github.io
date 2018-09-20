@@ -4,6 +4,9 @@ title: An Overview of Graphics Debugging Tools
 tags: graphics-debugger graphics-profiler
 ---
 
+* content
+{:toc}
+
 **Desktop graphics debugger**
 
 Tool | Vendor | Host     | Device      | D3D   | OpenGL    | Comment  

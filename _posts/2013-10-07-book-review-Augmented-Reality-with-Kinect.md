@@ -4,6 +4,9 @@ title: Book Review of "Augmented Reality with Kinect"
 tags: book kinect augmented-reality
 ---
 
+* content
+{:toc}
+
 [via packtpub][booklink]
 
 ![]({{ site.url }}/media/Augmented-Reality-with-Kinect.jpg)
