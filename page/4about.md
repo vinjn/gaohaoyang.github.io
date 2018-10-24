@@ -65,7 +65,7 @@ Leader of two distinct teams, mentoring members and planning schedules:
 - [FaceVFX](https://github.com/jing-interactive/FaceVFX) - mapping real-time visual effect to human face.
 - [lightnet](https://github.com/jing-vision/lightnet) - lightweight turnkey solution for AI.
 - [island](https://github.com/island-org/island) - lightweight creative coding framework in C.
-- [RenderDog](https://github.com/jing-interactive/RenderDog) - sandbox to prototype realtime rendering effects w/o writing code.
+- [MeshViewer](https://github.com/jing-interactive/MeshViewer) - OBJ / glTF2 mesh viewer for Windows and macOS.
 
 # As a writer #
 
