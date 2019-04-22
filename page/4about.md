@@ -23,7 +23,7 @@ Besides being an engineer, Jing is also an active githuber, a writer and a speak
 Leader of two distinct teams, mentoring members and planning schedules:
 
 - A team with computer graphics expertise, delivering graphics API (`Vulkan` and `OpenGL`) instrumenting tools. Generating real world stimulus and performance data for Tegra BU, Geforce BU and Quadro BU, impacts `GPU` design, silicon bring-up and competitive analysis.
-- A team composed of full-stack web experts, delivering `WebGL`-accelerated temporal data visualization frameworks.
+- A team composed of full-stack experts, delivering `WebGL`-accelerated temporal data viz and `python` based data mining frameworks.
 
 ### Aug 2014 - Jan 2015, Software Engineer II, Microsoft ###
 
@@ -65,7 +65,7 @@ Leader of two distinct teams, mentoring members and planning schedules:
 - [FaceVFX](https://github.com/jing-interactive/FaceVFX) - mapping real-time visual effect to human face.
 - [lightnet](https://github.com/jing-vision/lightnet) - lightweight turnkey solution for AI.
 - [island](https://github.com/island-org/island) - lightweight creative coding framework in C.
-- [MeshViewer](https://github.com/jing-interactive/MeshViewer) - OBJ / glTF2 mesh viewer for Windows and macOS.
+- [melo](https://github.com/jing-interactive/melo) - OBJ / glTF2 mesh viewer for Windows and macOS.
 
 # As a writer #
 
