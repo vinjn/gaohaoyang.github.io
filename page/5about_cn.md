@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 关于
+title: 中文简历
 permalink: /about_cn/
 icon: heart
 type: page
@@ -9,12 +9,12 @@ type: page
 * content
 {:toc}
 
-# 介绍
+# 综述
 ----
 
-张静是 `计算机图形学` 和 `计算机视觉` 领域的专家。他可以熟练使用多种编程语言，例如 `C`，`C ++`，`Python`，`JavaScript`，`glsl`和`Java`。他经在 Windows，Linux，macOS，Android，iOS 和 Xbox 等平台发布过产品。
+张静是 `计算机图形学` 和 `计算机视觉` 领域的专家。他可以熟练使用多种编程语言，例如 `C`，`C ++`，`Python`，`JavaScript`，`glsl`和`Java`。他已经在 Windows，Linux，macOS，Android，iOS 和 Xbox 等平台发布过产品。
 
-张静的职业道路都是围绕着 `GPU`，他在 GPU 方面的经验囊括高级的游戏引擎和 GPU 加速的数据可视化应用，到中级的图形 API 工具，再到低级的 GPU 性能分析器。
+张静的职业道路都是围绕着 `GPU`，他在 GPU 方面的开发经验丰富，从高层的游戏引擎和 GPU 加速的数据可视化应用，到中层的图形 API 工具，再到底层的 GPU 性能分析器都有涉足。
 
 除了是一名技术专家，张静也是活跃的开源社区参与者，作家和演讲者。
 
