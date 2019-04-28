@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: 关于
+permalink: /about_cn/
 icon: heart
 type: page
 ---
