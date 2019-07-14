@@ -60,7 +60,7 @@ type: page
 
 ## 作为开源社区参与者
 
--  [lightnet](https://github.com/jing-vision/lightnet)  - 轻量级的端对端 AI 解决方案，支持快速训练、部署、可视化调试。
+-  [lightnet](https://github.com/jing-vision/lightnet) 和 [AI 尬舞机](https://github.com/jing-interactive/DancingGaga)  - 轻量级的端对端 AI 解决方案，支持快速训练、部署、可视化调试。
 -  [melo](https://github.com/jing-interactive/melo)  - 用于 Windows 和 macOS 的 OBJ、glTF 三维模型载入库和查看软件。
 -  [FaceVFX](https://github.com/jing-interactive/FaceVFX)  - 将视觉特效实时映射到人脸，支持 Windows、macOS 和 iOS。
 -  [island](https://github.com/island-org/island)  -  基于 C 语言的轻量级图形框架。
