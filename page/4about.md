@@ -66,6 +66,7 @@ Leader of two distinct teams, mentoring members and planning schedules:
 
 ## As a writer
 
+- [RTX 光线追踪精粹](http://www.vinjn.com/2019/04/23/ray-tracing-gems-cn-20190423/) (To be published in 2019)
 - [OpenCV 2 计算机视觉编程手册](http://www.amazon.cn/OpenCV2%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%A7%86%E8%A7%89%E7%BC%96%E7%A8%8B%E6%89%8B%E5%86%8C-Robert-Laganiere%E8%91%97-%E5%BC%A0%E9%9D%99/dp/B00DO9TC6C/)
 - [Processing 语言权威指南](http://www.amazon.cn/Processing%E8%AF%AD%E8%A8%80%E6%9D%83%E5%A8%81%E6%8C%87%E5%8D%97-%E7%91%9E%E6%96%AF/dp/B00FEMKN7Y/)
 - [知乎专栏 - 黑客与画家](https://zhuanlan.zhihu.com/hacker-and-painter)
