@@ -11,7 +11,7 @@ type: page
 
 ## 综述
 
-张静是 `计算机图形学` 和 `计算机视觉` 领域的专家。他可以熟练使用多种编程语言，例如 `C`、`C++`、`Python`、`JavaScript` 和 `glsl` 等，并已于 Windows，Linux，macOS，Android，iOS 和 Xbox 等平台发布过产品。
+张静是 `计算机图形学` 和 `计算机视觉` 领域的专家。他可以熟练使用多种编程语言，例如 `C`、`C++`、`Python`、`JavaScript` 和 `glsl` 等，并已于 Windows、Linux、Android、iOS 等平台发布过产品。
 
 张静的职业道路都是围绕着 `GPU`，他在 GPU 方面的开发经验丰富，从高层的游戏引擎和 GPU 加速的数据可视化应用，到中层的图形 API 工具，再到底层的 GPU 性能分析器都有专业项目经历。
 
@@ -23,8 +23,8 @@ type: page
 
 带领两个截然不同的团队，负责成员的指导和项目的规划：
 
-- 拥有计算机图形专业知识的团队，提供图形 API (`Vulkan` 和 `OpenGL`) 的性能优化工具。为 Tegra、Geforce 和 Quadro 业务部门生成真实世界的应用输入和性能数据分析，影响下一代 `GPU` 的设计和竞品分析等。产品被硬件部门用于设计未来显卡架构、被软件部门用于优化当前显卡性能、被市场部门用于在[公开媒体展示产品特性](https://www.nvidia.com/content/dam/en-zz/Solutions/geforce/news/geforce-rtx-gtx-dxr/geforce-rtx-gtx-dxr-one-metro-exodus-frame.png)、被合作伙伴游戏开发商用于优化开发中的游戏性能等。
-- 由全栈网站开发专家组成的团队，提供基于 `WebGL` 加速的时间序列数据可视化和基于 `python` 的数据挖掘框架。
+- 拥有计算机图形专业知识的团队，提供图形 API (`Vulkan` 和 `OpenGL`) 的性能优化工具。为 Tegra、Geforce 和 Quadro 业务部门生成真实世界的应用输入和性能数据分析，影响下一代 `GPU` 的设计和竞品分析等。产品被硬件部门用于设计未来显卡架构、被软件部门用于优化当前显卡性能、被合作伙伴游戏开发商用于优化开发中的游戏性能。
+- 由全栈网站开发专家组成的团队，提供基于 `WebGL` 加速的时间序列数据可视化和基于 `python` 的数据挖掘框架。除了内部团队使用外，数据可视化的结果也被市场部门用于在[公司官网展示 RTX 显卡特性](https://www.nvidia.com/content/dam/en-zz/Solutions/geforce/news/geforce-rtx-gtx-dxr/geforce-rtx-gtx-dxr-one-metro-exodus-frame.png)。
 
 #### 2014年8月 - 2015年1月，软件工程师 II，Microsoft
 
