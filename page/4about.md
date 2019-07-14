@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: Resume
 permalink: /about/
 icon: heart
 type: page
