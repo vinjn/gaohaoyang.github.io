@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: minimalist
 title: 简历
 permalink: /about_cn/
 icon: heart
@@ -23,8 +23,8 @@ type: page
 
 带领两个截然不同的团队，负责成员的指导和项目的规划：
 
-- 拥有计算机图形专业知识的团队，提供图形 API (`Vulkan` 和 `OpenGL`) 的性能优化工具。为 Tegra、Geforce 和 Quadro 业务部门生成真实世界的应用输入和性能数据分析，影响下一代 `GPU` 的设计和竞品分析等。
-- 由全栈网站开发专家组成的团队，提供基于 `WebGL` 加速的 [时间序列数据可视化](https://www.nvidia.com/content/dam/en-zz/Solutions/geforce/news/geforce-rtx-gtx-dxr/geforce-rtx-gtx-dxr-one-metro-exodus-frame.png) 和基于 `python` 的数据挖掘框架。
+- 拥有计算机图形专业知识的团队，提供图形 API (`Vulkan` 和 `OpenGL`) 的性能优化工具。为 Tegra、Geforce 和 Quadro 业务部门生成真实世界的应用输入和性能数据分析，影响下一代 `GPU` 的设计和竞品分析等。产品被硬件部门用于设计未来显卡架构、被软件部门用于优化当前显卡性能、被市场部门用于在[公开媒体展示产品特性](https://www.nvidia.com/content/dam/en-zz/Solutions/geforce/news/geforce-rtx-gtx-dxr/geforce-rtx-gtx-dxr-one-metro-exodus-frame.png)、被合作伙伴游戏开发商用于优化开发中的游戏性能等。
+- 由全栈网站开发专家组成的团队，提供基于 `WebGL` 加速的时间序列数据可视化和基于 `python` 的数据挖掘框架。
 
 #### 2014年8月 - 2015年1月，软件工程师 II，Microsoft
 
@@ -36,7 +36,7 @@ type: page
 
 - 开发 `Direct3D 9/10/11` API 跟踪工具，进行后处理，在减少运行时间后依然保持相似的 GPU 性能。
 - 开发 `OpenGL` / `OpenGL-ES` API 跟踪工具，包括跟踪捕获器、cpp 转换器和重放器，涵盖 Windows，Linux 和 Android。
-- 利用[图形工具](https://www.vinjn.com/2013/07/07/graphics-debugging-tools-overview/) 进行调试和分析应用程序。
+- 利用[图形工具](https://www.vinjn.com/2013/07/07/graphics-debugging-tools-overview/)进行调试和分析应用程序。
 
 #### 2011年7月 -  2012年3月，高级软件工程师，盛大网络
 

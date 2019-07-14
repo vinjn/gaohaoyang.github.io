@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: minimalist
 title: Resume
 permalink: /about/
 icon: heart
