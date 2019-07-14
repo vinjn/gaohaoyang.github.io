@@ -41,9 +41,9 @@ type: page
 - 为增强现实 SDK 开发 `OpenGL` 3D场景图和动画系统。
 - 开发 iOS 平台的 `OpenGL-ES` 粒子系统和基于状态机的 AI 系统。
 
-#### 2011年3月 - 2011年7月，游戏引擎程序员，Ubisoft
+#### 2011年3月 - 2011年7月，游戏引擎工程师，Ubisoft
 
-- [NCIS 视频游戏](http://www.mobygames.com/developer/sheet/view/by_genre/developerId,532850/)(WII / PS3 / Xbox 360 / PC) 的 3D 引擎开发和优化。
+- 负责 [NCIS 视频游戏](http://www.mobygames.com/developer/sheet/view/by_genre/developerId,532850/) (WII / PS3 / Xbox 360 / PC) 的 3D 开发和优化。
 - 负责本地化和存档模块，改善游戏编辑器的性能和用户体验。
 
 #### 2010年5月 - 2011年2月，初级程序员，2K 游戏
@@ -60,9 +60,9 @@ type: page
 
 ## 作为开源社区参与者
 
--  [lightnet](https://github.com/jing-vision/lightnet)  - 轻量级的端对端 AI 解决方案。
--  [melo](https://github.com/jing-interactive/melo)  - 用于 Windows 和 macOS 的三维网格模型查看器。
--  [FaceVFX](https://github.com/jing-interactive/FaceVFX)  - 将视觉特效实时映射到人脸。
+-  [lightnet](https://github.com/jing-vision/lightnet)  - 轻量级的端对端 AI 解决方案，支持快速训练、部署、可视化调试。
+-  [melo](https://github.com/jing-interactive/melo)  - 用于 Windows 和 macOS 的 OBJ、glTF 三维模型载入库和查看软件。
+-  [FaceVFX](https://github.com/jing-interactive/FaceVFX)  - 将视觉特效实时映射到人脸，支持 Windows、macOS 和 iOS。
 -  [island](https://github.com/island-org/island)  -  基于 C 语言的轻量级图形框架。
 
 ## 作为作家
@@ -74,5 +74,5 @@ type: page
 
 ## 作为演讲者
 
--  [2016  - 广州 - 国际数字感知大会 - 新一代图形API VULKAN对AR，VR的影响](http://www.vinjn.com/slides/arvr-api-talk/index.html#/) 
--  [2016  - 深圳 - 全球架构师峰会 - 次世代图形接口Vulkan对行业的影响](http://www.vinjn.com/slides/vulkan-arch-summit/index.html#/) 
+-  [2016  - 广州 - 国际数字感知大会 - 新一代图形 API Vulkan 对 AR、VR 的影响](http://www.vinjn.com/slides/arvr-api-talk/index.html#/) 
+-  [2016  - 深圳 - 全球架构师峰会 - 次世代图形接口 Vulkan 对行业的影响](http://www.vinjn.com/slides/vulkan-arch-summit/index.html#/) 
