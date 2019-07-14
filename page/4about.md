@@ -6,9 +6,6 @@ icon: heart
 type: page
 ---
 
-* content
-{:toc}
-
 ## Jing Zhang / 张静
 
 Jing is a expert in `Computer Graphics` and `Computer Vision`. He can speak multiple programming languages, e.g. `C`, `C++`, `Python`, `JavaScript`, `glsl` and `Java`. He has shipped products on Windows, Linux, macOS, Android, iOS and Xbox.

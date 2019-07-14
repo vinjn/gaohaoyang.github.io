@@ -6,9 +6,6 @@ icon: heart
 type: page
 ---
 
-* content
-{:toc}
-
 ## 综述
 
 张静是 `计算机图形学` 和 `计算机视觉` 领域的专家。他可以熟练使用多种编程语言，例如 `C`、`C++`、`Python`、`JavaScript` 和 `glsl` 等，并已于 Windows、Linux、Android、iOS 等平台发布过产品。
