@@ -19,7 +19,7 @@ Besides being an technical expert, Jing is also an active githuber, a writer and
 
 Leader of two distinct teams, mentoring members and planning schedules:
 
-- A team with computer graphics expertise, delivering graphics API (`Vulkan` and `OpenGL`) instrumenting tools. Generating real world stimulus and performance data for Tegra BU, Geforce BU and Quadro BU, impacts `GPU` design, silicon bring-up and competitive analysis.
+- A team with computer graphics expertise, delivering graphics API (`DirectX`, `Vulkan` and `OpenGL`) instrumenting tools. Generating real world stimulus and performance data for Tegra BU, Geforce BU and Quadro BU, impacts `GPU` design, silicon bring-up and competitive analysis.
 - A team composed of full-stack experts, delivering `WebGL`-accelerated [temporal data viz](https://www.nvidia.com/content/dam/en-zz/Solutions/geforce/news/geforce-rtx-gtx-dxr/geforce-rtx-gtx-dxr-one-metro-exodus-frame.png) and `python` based data mining frameworks.
 
 #### Aug 2014 - Jan 2015, Software Engineer II, Microsoft

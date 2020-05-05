@@ -20,7 +20,7 @@ type: page
 
 带领两个截然不同的团队，负责成员的指导和项目的规划：
 
-- 拥有计算机图形专业知识的团队，提供图形 API (`Vulkan` 和 `OpenGL`) 的性能优化工具。为 Tegra、Geforce 和 Quadro 业务部门生成真实世界的应用输入和性能数据分析，影响下一代 GPU 的设计和竞品分析等。产品被硬件部门用于设计未来显卡架构、被软件部门用于优化当前显卡性能、被合作伙伴游戏开发商用于优化开发中的游戏性能。
+- 拥有计算机图形专业知识的团队，提供图形 API (`DirectX`、`Vulkan` 和 `OpenGL`) 的性能优化工具。为 Tegra、Geforce 和 Quadro 业务部门生成真实世界的应用输入和性能数据分析，影响下一代 GPU 的设计和竞品分析等。产品被硬件部门用于设计未来显卡架构、被软件部门用于优化当前显卡性能、被合作伙伴游戏开发商用于优化开发中的游戏性能。
 - 由全栈网站开发专家组成的团队，提供基于 `WebGL` 加速的时间序列数据可视化和基于 `Python` 的数据挖掘框架。除了内部团队使用外，数据可视化的结果也被市场部门用于在[公司官网展示 RTX 显卡特性](https://www.nvidia.com/content/dam/en-zz/Solutions/geforce/news/geforce-rtx-gtx-dxr/geforce-rtx-gtx-dxr-one-metro-exodus-frame.png)。
 
 #### 2014年8月 - 2015年1月，软件工程师 II，Microsoft
