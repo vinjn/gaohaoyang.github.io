@@ -7,10 +7,10 @@ tags: tool
 * content
 {:toc}
 
-## Target Audience ##
+## Target Audience
 Desktop programmer (C++ / Java / Scripts) on Windows
 
-## Editor ##
+## Editor
 * Sublime Text 3
   * Package Control
   * All Autocomplete
@@ -37,7 +37,7 @@ Desktop programmer (C++ / Java / Scripts) on Windows
   * NppExec
   * TextFX Characters
 
-## Utils ##
+## Utils
 * Executor
 * Everything
 * Total Commander
@@ -50,7 +50,7 @@ Desktop programmer (C++ / Java / Scripts) on Windows
   * Process Monitor
 * Unlocker
 
-## Programming ##
+## Programming
 * Visual Studio Express
 * Eclipse
 * WinDBG
@@ -58,7 +58,7 @@ Desktop programmer (C++ / Java / Scripts) on Windows
 * TortoiseSVN / Perforce / TortoiseGit
 * Very Sleepy
 
-## Network ##
+## Network
 * Chrome
   * Vimium
   * AdBlock
@@ -68,5 +68,5 @@ Desktop programmer (C++ / Java / Scripts) on Windows
 * Putty
 * WinSCP
 
-## Graphics ##
+## Graphics
 * [graphics-debugging-tools-overview](http://vinjn.github.io/2013/07/07/graphics-debugging-tools-overview.html)
