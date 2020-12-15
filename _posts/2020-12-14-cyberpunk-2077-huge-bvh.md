@@ -30,7 +30,7 @@ tags: rtx ray-tracing cyberpunk bvh cdpr
 
 我们做下推理，`假反射`看不到是因为传统方式无法访问周围场景，`真反射`能看到则是因为它可以。在 RTX 中访问周围场景的一束束光线，光线与场景中（海量）三角形的相交是个非常暴力的操作。在直奔主题前，我们虚构一个简单场景来帮助理解光线和场景的关系，这个场景里只有两面格子墙、一盏灯和一个灰色的光滑小球。光线打到光滑的球面上并没有停止，而是继续弹射多次（次数与帧率成反比），弹射过程中的颜色值都会贡献到小球表面的颜色值。通过光线的弹射来获取周围场景的颜色值，便是`真反射`的核心。
 
-![]({{ site.url }}/media/2077-reflection-rtx-on.jpg)
+![]({{ site.url }}/media/rtx-reflection-balls.jpg)
 
 回到`赛博朋克 2077`，小张的 RTX 2080 Super 在打开光追后显存都不够用，于是猜测开发商 CDPR 采用了非常暴力的方式来保存场景。有了这么一个猜测，下一步便是掏出小张的工具箱来验证它。
 
@@ -43,8 +43,7 @@ tags: rtx ray-tracing cyberpunk bvh cdpr
 - 微软 PIX，失败，不支持 Steam 启动的游戏
 - 老东家 NVIDIA 的 Nsight Graphics，可行! 有一定几率游戏会挂，但是可行。
 
-![]({{ site.url }}/media/2077-crashing.jpg
-)
+![]({{ site.url }}/media/2077-crashing.jpg)
 
 
 ----
