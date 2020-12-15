@@ -18,11 +18,11 @@ tags: rtx ray-tracing cyberpunk bvh cdpr
 
 `赛博朋克 2077`可能是将 RTX 技术推广得最成功的一款游戏，水面、玻璃、金属，这些老黄发布会上最爱的视觉元素和谐地充斥在`赛博朋克 2077`的场景中，即位于美国西海岸的夜之城（Night City）。RTX 打破了传统绘制方式的局限性，即 `绘制场景中某一个物体时，无法获得周围其他物体的信息`。为了绕开这个限制，过往的图形程序员们发明了各种奇技淫巧来增加真实感。比如地面的反射，在 RTX 的`真反射`出现前，游戏中普遍用的是`伪反射`。`伪反射`通常基于屏幕上出现的颜色来伪造反射，对于屏幕外的颜色值无能为力。
 
-![](../media/2077-reflection-rtx-off.jpg)
+![]({{ site.url }}/media/2077-reflection-rtx-off.jpg)
 
 作为对比，我们看下`真反射`，屏幕中下方的小水坑中能观察到屏幕以外的颜色值。
 
-![](../media/2077-reflection-rtx-on.jpg)
+![]({{ site.url }}/media/2077-reflection-rtx-on.jpg)
 
 
 
@@ -30,7 +30,7 @@ tags: rtx ray-tracing cyberpunk bvh cdpr
 
 我们做下推理，`假反射`看不到是因为传统方式无法访问周围场景，`真反射`能看到则是因为它可以。在 RTX 中访问周围场景的一束束光线，光线与场景中（海量）三角形的相交是个非常暴力的操作。在直奔主题前，我们虚构一个简单场景来帮助理解光线和场景的关系，这个场景里只有两面格子墙、一盏灯和一个灰色的光滑小球。光线打到光滑的球面上并没有停止，而是继续弹射多次（次数与帧率成反比），弹射过程中的颜色值都会贡献到小球表面的颜色值。通过光线的弹射来获取周围场景的颜色值，便是`真反射`的核心。
 
-![](../media/2077-reflection-rtx-on.jpg)
+![]({{ site.url }}/media/2077-reflection-rtx-on.jpg)
 
 回到`赛博朋克 2077`，小张的 RTX 2080 Super 在打开光追后显存都不够用，于是猜测开发商 CDPR 采用了非常暴力的方式来保存场景。有了这么一个猜测，下一步便是掏出小张的工具箱来验证它。
 
@@ -43,7 +43,7 @@ tags: rtx ray-tracing cyberpunk bvh cdpr
 - 微软 PIX，失败，不支持 Steam 启动的游戏
 - 老东家 NVIDIA 的 Nsight Graphics，可行! 有一定几率游戏会挂，但是可行。
 
-![](../media/2077-crashing.jpg
+![]({{ site.url }}/media/2077-crashing.jpg
 )
 
 
