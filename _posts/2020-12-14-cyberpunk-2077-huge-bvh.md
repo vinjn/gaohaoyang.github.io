@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "大力出奇迹，赛博朋克 2077 的开发商竟将夜之城塞进一个盒子"
+title: "大力出奇迹，赛博朋克 2077 竟将夜之城塞进一个盒子"
 tags: rtx ray-tracing cyberpunk bvh cdpr
 ---
 
