@@ -8,9 +8,9 @@ type: page
 
 ## 综述
 
-张静的职业生涯围绕着 `GPU`，从高层的游戏引擎和 GPU 加速的数据可视化应用，到中层的图形 API 工具，再到底层的 GPU 性能优化都有着商业项目的成功经历。
+张静的职业生涯围绕着 GPU，从高层的游戏引擎和 GPU 加速的数据可视化应用，到中层的图形 API 工具，再到底层的 GPU 性能优化都有着商业项目的成功经历。
 
-张静是 `计算机图形学` 和 `计算机视觉` 领域的专家。他可以熟练使用多种编程语言，如 `C++`、`Python`、`JavaScript` 和 `glsl`，并已于 Windows、Linux、Android、iOS、Web 等平台发布过产品。
+张静是计算机图形学和计算机视觉领域的专家。他可以熟练使用多种编程语言，如 C++、Python、JavaScript 和 glsl，并已于 Windows、Linux、Android、iOS、Web 等平台发布过产品。
 
 除了是一名技术专家，张静也是活跃的开源社区参与者、作家和演讲者。
 
@@ -20,35 +20,34 @@ type: page
 
 为心动的第一方及第二方项目提供可重用的工具链，提升产品质量和研发效率：
 
-- 负责一款 UE4 MMORPG 项目的渲染、客户端性能及图形工具开发，提供端到端的性能监控及优化服务。
+- 负责一款 UE4 MMORPG 项目的渲染、客户端性能及图形工具开发，提供端到端的性能监控及优化。
 - 开发[渲染医生](https://github.com/xindong/render-doctor) 和 [包体医生](https://github.com/xindong/pkg-doctor) 项目，为自研团队定期输出性能优化及包体优化报告。
-- 对心动投资的公司进行性能优化及培训，项目包括《香肠派对》、《不休的乌拉拉》、《江南百景图》等。
+- 对心动投资的公司进行性能优化及培训服务，项目包括《香肠派对》及《江南百景图》等。
 - 从零开始搭建与硬件厂商的合作生态，包括各大手机厂商与 GPU 供应商，与厂商合作进行深度优化。
 
 #### 2015年1月 - 2020年9月，高级 GPU 架构师 / 跨团队负责人，NVIDIA
 
 带领两个截然不同的团队，负责团队的成长与项目的规划：
 
-- 拥有计算机图形专业知识的团队，提供图形 API (`DirectX`、`Vulkan` 和 `OpenGL`) 的性能优化工具。为 Tegra、Geforce 和 Quadro 业务部门生成真实世界的应用输入和性能数据分析，影响下一代 GPU 的设计和竞品分析等。产品被硬件部门用于设计未来显卡架构、被软件部门用于优化当前显卡性能、被游戏开发商用于优化开发中的游戏性能。
-- 由全栈网站开发专家组成的团队，提供基于 `WebGL` 加速的时间序列数据可视化和基于 `Python` 的数据挖掘框架。除了内部团队使用外，数据可视化的结果也被市场部门用于在[公司官网展示 RTX 显卡特性](https://www.nvidia.com/content/dam/en-zz/Solutions/geforce/news/geforce-rtx-gtx-dxr/geforce-rtx-gtx-dxr-one-metro-exodus-frame.png)。
+- 拥有计算机图形专业知识的团队，提供图形 API (DirectX、Vulkan 和 OpenGL) 的性能优化工具。为 Tegra、Geforce 及 Quadro 业务部门生成真实世界的应用输入和性能数据分析，影响下一代 GPU 的设计和竞品分析等。产品被硬件部门用于设计未来显卡架构、被软件部门用于优化当前显卡性能、被游戏开发商用于优化开发中的游戏性能。
+- 由全栈网站开发专家组成的团队，提供基于 WebGL 加速的时间序列数据可视化和基于 Python 的数据挖掘框架。除了内部团队使用外，数据可视化的结果也被市场部门用于在[公司官网展示 RTX 显卡特性](https://www.nvidia.com/content/dam/en-zz/Solutions/geforce/news/geforce-rtx-gtx-dxr/geforce-rtx-gtx-dxr-one-metro-exodus-frame.png)。
 
 #### 2014年8月 - 2015年1月，软件工程师 II，Microsoft
 
 - 微软中国 Xbox 先进技术组的第一位工程师。
 - 针对中国市场改进 Xbox One 游戏，支持腾讯、完美世界等开发商。
-- 使用 `PIX` 分析游戏性能，降低 `Direct3D 11.x` 游戏的 CPU 和 GPU 开销。
+- 使用 PIX 分析游戏性能，降低 Direct3D 11.x 游戏的 CPU 和 GPU 开销。
 
 #### 2012年4月 - 2014年7月，GPU 架构师，NVIDIA
 
-- 开发 `Direct3D 9/10/11` API 日志跟踪工具，进行后处理，在减少运行时间后依然保持相似的 GPU 性能。
-- 开发 `OpenGL` / `GLES` API 日志跟踪工具，包括日志的捕获和重放，涵盖 Windows，Linux 和 Android。
+- 开发 Direct3D 9/10/11 API 日志跟踪工具，进行后处理，在减少运行时间后依然保持相似的 GPU 性能。
+- 开发 OpenGL / GLES API 日志跟踪工具，包括日志的捕获和重放，涵盖 Windows，Linux 和 Android。
 - 利用[图形工具](https://www.vinjn.com/2013/07/07/graphics-debugging-tools-overview/)进行调试和分析应用程序。
 
 #### 2011年7月 -  2012年3月，高级软件工程师，盛大网络
 
-- 使用 `flann`扩展 `OpenCV` 以支持用于图像检索的近似 kMeans 聚类算法。
-- 为增强现实 SDK 开发 `OpenGL` 3D场景图和动画系统。
-- 开发 iOS 平台的 `GLES` 粒子系统和基于状态机的 AI 系统。
+- 为增强现实 SDK 开发 OpenGL 3D场景图和动画系统。
+- 开发 iOS 平台的 GLES 粒子系统和基于状态机的 AI 系统。
 
 #### 2011年3月 - 2011年7月，游戏引擎工程师，Ubisoft
 
@@ -57,7 +56,7 @@ type: page
 
 #### 2010年5月 - 2011年2月，初级程序员，2K 游戏
 
-- 开发字体轮廓提取工具，使用 `OpenCV` 识别字体像素并提取边界框，节省数周的手动操作。
+- 开发字体轮廓提取工具，使用 OpenCV 识别字体像素并提取边界框，节省数周的工程师时间。
 - 为多个项目设置和维护每日构建系统。
 - 在 Xbox 360 开发 Mafia II 和 Borderlands 的本地化版本，负责游戏逻辑调试。
 
