@@ -15,7 +15,13 @@ Jing's career path is all about `GPU`, his experience in GPU ranges from high-le
 Besides being an technical expert, Jing is also an active githuber, a writer and a speaker.
 
 ## As an engineer
-#### Jan 2015 - Present, Senior GPU Infrastructure Architect, NVIDIA
+#### Oct 2020 - Present, Expert Engineer, xd.com
+
+- Performance tuning, rendering and tools for a UE4 MMORPG game.
+- Internal service
+- Public-facing developer tools on [graphics analysis and performance turning](https://github.com/xindong/render-doctor).
+
+#### Jan 2015 - Sep 2020, Senior GPU Infrastructure Architect, NVIDIA
 
 Leader of two distinct teams, mentoring members and planning schedules:
 
