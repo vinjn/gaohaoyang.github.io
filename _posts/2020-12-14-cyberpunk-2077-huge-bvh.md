@@ -6,7 +6,6 @@ tags: rtx ray-tracing cyberpunk bvh cdpr
 
 * content
 {:toc}
-
 # 欢迎来到夜之城，V
 
 ![]({{ site.url }}/media/2077-welcome-to-night-city.jpg)
@@ -102,5 +101,4 @@ tags: rtx ray-tracing cyberpunk bvh cdpr
 
 ----
 vinjn.com - Democratizing Visual Computing
-
 
