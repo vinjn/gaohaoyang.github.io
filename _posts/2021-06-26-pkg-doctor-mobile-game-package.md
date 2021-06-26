@@ -33,6 +33,10 @@ tags: taptap xd xindong apk ipa optimization
 
 这个软件我取名为 [pkg-doctor / 包体医生](https://github.com/taptap/pkg-doctor)，对于游戏包体它就像个医生，望闻问切、抽血CT，一番操作后给出报告。
 
+使用方法也非常简单粗暴
+
+> pkg-doctor.exe /path/to/game.apk
+
 对于 Unity 项目，我使用 Perfare 的 [Asset Studio](https://github.com/Perfare/AssetStudio) 来解决收集资源文件名、尺寸、格式等数据的需求。以下是它的用户界面，能看到文件名、类型、尺寸、内容预览等信息，可以满足第一步的需求。
 
 ![]({{ site.url }}/media/asset-studio.jpg)
@@ -62,7 +66,7 @@ Combined Mesh (root: scene) 2,,Mesh,vtx:30360 idx:85401 uv:60720 n:121440,,17297
 
 ![]({{ site.url }}/media/image-20210626233147977.png)
 
-从这里能看到包体的大头是 贴图 / Texture，而贴图的大头是未经压缩的格式；此外还有不可忽视的重复入包资产。
+从这里能看到包体的重头戏是 贴图 / Texture，而重中之重则是未经压缩的图片；此外还有不可忽视的重复入包资产。
 
 知道这些信息后，我们可以查看 `重复入包 TOP 榜单` 找到出问题的资产名称、浪费的包体尺寸、预览、prefab 名称等等。
 
@@ -72,9 +76,17 @@ Combined Mesh (root: scene) 2,,Mesh,vtx:30360 idx:85401 uv:60720 n:121440,,17297
 
 ![image-20210626234935117]({{ site.url }}/media/image-20210626234935117.png)
 
+对于这个测试项目，包体医生现有的功能便可以大幅地降低包体尺寸。
 
+# 未来展望
 
+下一阶段优先级最高的任务是增加对 Unreal 项目的支持，而由于我将解决问题的过程分成了三步
 
+- 收集数据
+- 处理数据
+- 展示数据
+
+第 2 步和第 3 步几乎是可以复用的。
 
 ----
 
