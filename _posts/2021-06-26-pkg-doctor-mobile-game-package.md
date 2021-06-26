@@ -7,6 +7,10 @@ tags: taptap xd xindong apk ipa optimization
 * content
 {:toc}
 
+![]({{ site.url }}/media/DontPanic.jpg)
+
+# 对包体大小的焦虑，可能是手游独有的
+
 在 NVIDIA 做性能分析的时候，接触的 PC 大作基本很多都是 10G 以上的，因此也从没有想过包体大小会是个重要的优化项目。来到心动网络后，与自研的项目进行过合作，也和 TapTap 上的独家游戏团队有过交流，这才意识到包体大小对于手游的重要性，总结下有两点：
 
 - 影响转化率，大包体会直接遏制玩家的点击下载欲望，以及降低下载完成的概率。
@@ -15,7 +19,7 @@ tags: taptap xd xindong apk ipa optimization
 
 
 
-# 这个问题，小张用三个步骤来解决
+# 小张用三个步骤来解决
 
 在 10 多年的工作历程中小张遇到过各种难缠问题，每次小张都会将问题的解决过程拆成三步
 
@@ -56,7 +60,7 @@ Combined Mesh (root: scene) 2,,Mesh,vtx:30360 idx:85401 uv:60720 n:121440,,17297
 
 第二步和第三步都在 [Python 端](https://github.com/taptap/pkg-doctor/blob/main/AssetStudio/pkg.py) 进行，这两部分的改动频率较高，随着我经手的游戏变多，新的优化方向会浮出水面，更多的用户反馈也会带来更友好的数据展示方式。
 
-# 举个例子
+# 有图有真相
 
 这是一款用来测试工具的项目，我们来看下包体医生生成的报告中 `包体概览` 部分：
 
