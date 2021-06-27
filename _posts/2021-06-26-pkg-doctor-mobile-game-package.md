@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "你对手游包体的大小感到焦虑吗？试试 TapTap 的这款开源软件吧"
+title: "你对手游包体的大小感到焦虑吗？试试 TapTap 的这款开源软件"
 tags: taptap xd xindong apk ipa optimization
 ---
 
