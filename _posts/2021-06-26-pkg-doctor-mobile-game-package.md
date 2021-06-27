@@ -41,7 +41,7 @@ tags: taptap xd xindong apk ipa optimization
 
 ![]({{ site.url }}/media/asset-studio.jpg)
 
-经过我修改后的 Asset Studio 有能力读取一个 Unity 游戏的 apk 文件，输出包含资产名称、类型、尺寸、预览等信息的 CSV 文件，供第下一步使用。下图是由 Unity 官方范例产生的 CSV 文件：
+经过我修改后的 Asset Studio 有能力读取一个 Unity 游戏的 apk 文件，输出包含资产名称、类型、尺寸、预览等信息的 CSV 文件，供下一步使用。下图是由 Unity 官方范例产生的 CSV 文件：
 
 ```
 Name,Container,Type,Dimension,Format,Size,FileName,Hash,OriginalFile
@@ -58,15 +58,15 @@ Capsule,,Mesh,vtx:550 idx:2496 uv:1100 n:1650,,36196,,eb6e9adcd5af6b8c90bdced7c0
 Combined Mesh (root: scene) 2,,Mesh,vtx:30360 idx:85401 uv:60720 n:121440,,172972,Mesh/\Combined_Mesh__root__scene__2_802.obj,,level0
 ```
 
-第二步和第三步都在 [Python 端](https://github.com/taptap/pkg-doctor/blob/main/AssetStudio/pkg.py) 进行，这两部分的改动频率较高，随着我经手的游戏变多，新的优化方向会浮出水面，更多的用户反馈也会带来更友好的数据展示方式。
+第二步和第三步都在 [Python 端](https://github.com/taptap/pkg-doctor/blob/main/AssetStudio/pkg.py) 进行，这两部分的改动频率较高，随着我经手的游戏变多，新的优化方向会浮出水面；来自开发者的反馈也令我改进数据的展示方式。
 
 # 有图有真相
 
-这是一款用来测试工具的项目，我们来看下包体医生生成的报告中 `包体概览` 部分：
+来看一款用来测试工具的项目，首先看下包体医生报告中的 `包体概览` 部分：
 
 ![]({{ site.url }}/media/image-20210626233147977.png)
 
-从这里能看到包体的重头戏是 贴图 / Texture，而重中之重则是未经压缩的图片；此外还有不可忽视的重复入包资产。
+从这里能看到这款游戏的包体重头戏是 贴图 / Texture，而重中之重是未经压缩的图片；此外还有大量不可忽视的重复入包资产。
 
 知道这些信息后，我们可以查看 `重复入包 TOP 榜单` 找到出问题的资产名称、浪费的包体尺寸、预览、prefab 名称等等。
 
