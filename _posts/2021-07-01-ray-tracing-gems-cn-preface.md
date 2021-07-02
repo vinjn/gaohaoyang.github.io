@@ -16,7 +16,7 @@ tags: rtx nvidia
 
 我在光线追踪领域涉猎广但是不深，有幸的是本书的初稿得到了众多网友的帮助。在此由衷地感谢参与翻译的伙伴们付出的劳动，在初稿之后我们又进行了多轮交叉审稿，最终才得以成稿。以下是本次参与翻译的小伙伴（按 github 账号首字母）：AltmIce 张鹏飞、AmesingFlank 卢敦凡、Angiewei 魏安琪、bluesummer 王晓波、butterfly0923 张帅、ch3coohlink、chiantiYZY 颜卓仪、Cielrin、FaithZL  朱翎、FantasyVR 禹鹏、gigichq、haiyuem 麻海玥、jingjingshenye、lifangjie 李方杰、LIJIE 李杰、liyongnupt 李勇、Nicholas10128 金鑫、papalqi 黄琦、qingqhua 华清沁、RazorYhang 杨宇辰、renyuhuiharrison 任宇晖、rockyvon、skyfeiyun 董东、slongle 邓俊辰、tankijong 张天毅、tavechiang 蒋大为、vcl-pku 马雷、wubochang 吴博昌、XBOOS、YanFeiGao 刘龙腾、yuxing5555、zhan2586 张闻宇、zheng95z 曾峥、zzk224 钟凯。
 
-此外需要特别感谢 papalqi 黄琦在整个翻译前中后期的大力支持，他负责了与初稿译者们的沟通以及前中期进度的追踪。也要一并感谢 butterfly0923 张帅与 AltmIce 张鹏飞，他们带来了高质量的初稿并替我分担了后期繁重的审阅工作。此外要感谢本书编辑喻永光的支持和督（cui）促（gao），这是我俩的第二次合作了，非常期待下次。
+此外需要特别感谢 papalqi 黄琦在整个翻译前中后期的大力支持，他负责了与初稿译者们的沟通以及前中期进度的追踪。也要一并感谢 butterfly0923 张帅与 AltmIce 张鹏飞，他们带来了高质量的初稿并替我分担了后期繁重的审阅工作。此外要感谢本书编辑喻永光的支持和督（cui）促（gao），这是我俩的第二次合作，非常期待下一次。
 
 感谢读者们的耐心等待。本书涵盖的内容之广，话题之深远远超过我立项时的估计，即便反复审稿也不免会有错误之处。也希望大家能多多谅解，遇到 bug 可以发我邮件 vinjn@qq.com。
 
